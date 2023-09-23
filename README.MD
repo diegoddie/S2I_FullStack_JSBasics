@@ -1,6 +1,6 @@
 # Start2Impact Full Stack Development "JS Basics" Project - Counter
 This is a simple Counter project created as part of the Full Stack Development course at Start2Impact. The project is built using HTML, CSS, and JavaScript to provide a basic understanding of front-end development and JavaScript fundamentals.
-I deployed this project at -->
+I deployed this project at --> https://diegolauricella-jsbasics.netlify.app/
 
 ## Project Overview
 The Counter project is designed to demonstrate the following concepts:
